@@ -11,5 +11,10 @@
 	          <a href='/topics/playdoh'><img class="thumb" src="http://img.youtube.com/vi/0SDcPW_chIM/0.jpg"></a>
 	          <h2>Playdoh</h2>
 	</div>
+
+	<div class="home_preview" id="iXtF27rIhkA">
+	          <a href='/topics/goose'><img class="thumb" src="http://img.youtube.com/vi/iXtF27rIhkA/0.jpg"></a>
+	          <h2>Pat-A-Cake</h2>
+	</div>
 	
 </div>

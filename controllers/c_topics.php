@@ -27,4 +27,15 @@ class topics_controller extends base_controller {
             echo $this->template;
 
     }
+
+    public function goose() {
+
+        # Setup view
+            $this->template->content = View::instance('v_topics_goose');
+            $this->template->title   = "MiniMooc | Mother Goose";
+
+        # Render template
+            echo $this->template;
+
+    }
 }
