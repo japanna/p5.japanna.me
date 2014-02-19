@@ -14,7 +14,12 @@
 
 	<div class="home_preview" id="iXtF27rIhkA">
 	          <a href='/topics/goose'><img class="thumb" src="http://img.youtube.com/vi/iXtF27rIhkA/0.jpg"></a>
-	          <h2>Pat-A-Cake</h2>
+	          <h2>MUSIC</h2>
+	</div>
+
+	<div class="home_preview" id="cQ4FjaP4aMM">
+	          <a href='/topics/cook'><img class="thumb" src="http://img.youtube.com/vi/cQ4FjaP4aMM/0.jpg"></a>
+	          <h2>Cooking</h2>
 	</div>
 	
 </div>

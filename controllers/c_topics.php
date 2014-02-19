@@ -32,7 +32,18 @@ class topics_controller extends base_controller {
 
         # Setup view
             $this->template->content = View::instance('v_topics_goose');
-            $this->template->title   = "MiniMooc | Mother Goose";
+            $this->template->title   = "MiniMooc | Music";
+
+        # Render template
+            echo $this->template;
+
+    }
+
+    public function cook() {
+
+        # Setup view
+            $this->template->content = View::instance('v_topics_cook');
+            $this->template->title   = "MiniMooc | Cooking";
 
         # Render template
             echo $this->template;
